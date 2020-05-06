@@ -1,2 +1,2 @@
 # Vislice
-Uvod v programiranje projekt
+Uvod v programiranje
