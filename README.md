@@ -2,6 +2,6 @@
 Uvod v programiranje
 
 ## Znani slovenski matematiki
-- Jurij Vega
+- Borut Pahor
 - Josip Plemelj
 - Ivan Vidav
