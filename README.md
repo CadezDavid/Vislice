@@ -2,6 +2,6 @@
 Uvod v programiranje
 
 ## Znani slovenski matematiki
-- Janez Janša
+- Jurij Vega
 - Josip Plemelj
 - Ivan Vidav
